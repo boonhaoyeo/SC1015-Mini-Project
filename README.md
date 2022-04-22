@@ -75,3 +75,17 @@ pip install wordcloud
 - Remove unwanted symbols like [ ] “” /  and converted the some unicode to ASCII
 - Rounded the number to 1.dp to generalize the ratings 
 - Removed the $ sign from the price string and converted to float
+
+### Machine Learning Models used
+
+- K-Nearest-Neighbours Classification
+- One Hot Encoding with Random Forest Regression
+- Naive Bayes 
+- Logistic Regression
+- SVM
+
+### Conclusion
+
+
+### What did we learn from this project?
+
