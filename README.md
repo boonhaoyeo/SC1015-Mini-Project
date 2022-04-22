@@ -60,3 +60,18 @@ Our project is based of the Singapore airbnb dataset found on [insideairbnb](htt
 |bedrooms|int||calculated_host_listings_count_shared_rooms|int|
 |beds|int||reviews_per_month|float|
 
+ ## Getting Started
+ 
+ ### Installing required packages
+
+```
+pip install folium
+pip install wordcloud
+```
+
+### Data cleaning
+
+- Removed NaN Values
+- Remove unwanted symbols like [ ] “” /  and converted the some unicode to ASCII
+- Rounded the number to 1.dp to generalize the ratings 
+- Removed the $ sign from the price string and converted to float
