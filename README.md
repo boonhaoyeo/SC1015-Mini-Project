@@ -67,6 +67,8 @@ Our project is based of the Singapore airbnb dataset found on [insideairbnb](htt
 ```
 pip install folium
 pip install wordcloud
+pip install xgboost
+pip install graphviz
 ```
 
 ### Data cleaning
@@ -83,6 +85,7 @@ pip install wordcloud
 - Naive Bayes 
 - Logistic Regression
 - SVM
+- XGBoost
 
 ### Conclusion
 
