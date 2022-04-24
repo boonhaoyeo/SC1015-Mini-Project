@@ -108,7 +108,7 @@ pip install graphviz
 ### 1. Teo Jun Wei
   - EDA
   - ML : Random Forest, K-Nearest Neighbours
-  - Presentation  
+  - Presentation, Video Editing  
 
 ### 2. Yeo Boon Hao
   - EDA
@@ -118,7 +118,7 @@ pip install graphviz
   
 ### 3. Lim Zi Hao
   - EDA
-  - ML : Logistic Regression, SVM
+  - ML : Random Forest, Logistic Regression, SVM
   - Presentation 
 
 # References:
