@@ -126,5 +126,7 @@ pip install graphviz
 - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
 - https://scikit-learn.org/stable/modules/naive_bayes.html
 - https://python-visualization.github.io/folium/
+- https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/
+- https://stackabuse.com/random-forest-algorithm-with-python-and-scikit-learn/
 
 
