@@ -105,6 +105,8 @@ pip install graphviz
 - Neighborhood and Property type contributes greatly to the review score of a Airbnb listing
 - House owners in Bukit Timah and Holland can consider Airbnb as a extra source of revenue as the area does not have many listings.
 
+### Video Link
+- https://www.youtube.com/watch?v=IAzQes0JspI&ab_channel=MrBoombastic
 
 ### What did we learn from this project?
 - One Hot Encoding
