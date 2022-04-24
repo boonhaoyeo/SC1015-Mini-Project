@@ -88,7 +88,43 @@ pip install graphviz
 - XGBoost
 
 ### Conclusion
+- Number of amenities does not really affect review score but rather what amenities you have
+- Airbnb listings with swimming pools tend to get higher reviews
+- Neighborhood and Property type contributes greatly to the review score of a Airbnb listing
+- House owners in Bukit Timah and Holland can consider Airbnb as a extra source of revenue as the area does not have many listings.
 
 
 ### What did we learn from this project?
+- One Hot Encoding
+- Logistic Regression
+- XGBoost
+- Naive Bayes 
+- Usage of F1-Score
+- Usage of python libraries such as NLTK, Folium and WordCloud to help us better visualise the data
+- Collaboration through GitHub
+
+# Individual Contributions: 
+
+### 1. Teo Jun Wei
+  - EDA
+  - ML : Random Forest, K-Nearest Neighbours
+  - Presentation,  
+
+### 2. Yeo Boon Hao
+  - EDA
+  - ML : Naive Bayes, XGBoost
+  - Presentation 
+  - Github
+  
+### 3. Lim Zi Hao
+  - EDA
+  - ML : Logistic Regression, SVM
+  - Presentation 
+
+# References:
+- https://xgboost.readthedocs.io/en/stable/
+- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+- https://scikit-learn.org/stable/modules/naive_bayes.html
+- https://python-visualization.github.io/folium/
+
 
