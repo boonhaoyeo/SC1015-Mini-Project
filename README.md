@@ -128,5 +128,6 @@ pip install graphviz
 - https://python-visualization.github.io/folium/
 - https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/
 - https://stackabuse.com/random-forest-algorithm-with-python-and-scikit-learn/
+- https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html
 
 
