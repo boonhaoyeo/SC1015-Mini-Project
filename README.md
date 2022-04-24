@@ -108,7 +108,7 @@ pip install graphviz
 ### 1. Teo Jun Wei
   - EDA
   - ML : Random Forest, K-Nearest Neighbours
-  - Presentation,  
+  - Presentation  
 
 ### 2. Yeo Boon Hao
   - EDA
@@ -129,5 +129,6 @@ pip install graphviz
 - https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/
 - https://stackabuse.com/random-forest-algorithm-with-python-and-scikit-learn/
 - https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html
+- https://towardsdatascience.com/what-is-one-hot-encoding-and-how-to-use-pandas-get-dummies-function-922eb9bd4970
 
 
