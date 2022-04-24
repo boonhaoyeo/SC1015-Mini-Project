@@ -87,6 +87,18 @@ pip install graphviz
 - SVM
 - XGBoost
 
+
+### Machine Learning Results
+ 
+|Machine Learning Model|F1 Score (True / False)|Accuracy|
+|---|---|---|
+|Random Forest (1)|0.70 / 0.86|0.81|
+|Random Forest (2)|0.60 / 0.51|0.56|
+|K-Nearest-Neighbour|0.34 / 0.80|0.69|
+|Support Vector Machine|0.68 / 0.47|0.6|
+|Logistic Regression|0.67 / 0.49|0.60|
+|Naive Bayes|0.60 / 0.60|0.59|
+
 ### Conclusion
 - Number of amenities does not really affect review score but rather what amenities you have
 - Airbnb listings with swimming pools tend to get higher reviews
