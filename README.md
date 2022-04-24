@@ -142,6 +142,9 @@ pip install graphviz
 - https://python-visualization.github.io/folium/
 - https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/
 - https://stackabuse.com/random-forest-algorithm-with-python-and-scikit-learn/
+- https://towardsdatascience.com/random-forest-ca80e56224c1
+- https://github.com/christianversloot/machine-learning-articles/blob/main/how-to-visualize-support-vectors-of-your-svm-classifier.md
+- https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
 - https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html
 - https://towardsdatascience.com/what-is-one-hot-encoding-and-how-to-use-pandas-get-dummies-function-922eb9bd4970
 
